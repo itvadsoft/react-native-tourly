@@ -5,6 +5,10 @@
 
 **react-native-tourly** is a lightweight, controlled guided-tour and onboarding library for React Native. Highlight real UI elements, explain features in context, and keep progress fully owned by your app.
 
+## Author
+
+Created and maintained by [Fazalur Rahman](https://www.linkedin.com/in/fazalur-rahman-43637b1b3/) · [GitHub @fazalur076](https://github.com/fazalur076)
+
 ## Highlights
 
 - Spotlight any measured `TourTarget`
