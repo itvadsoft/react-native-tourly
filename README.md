@@ -1,7 +1,7 @@
 # react-native-tourly
 
 [![npm version](https://img.shields.io/npm/v/react-native-tourly?logo=npm)](https://www.npmjs.com/package/react-native-tourly)
-[![license](https://img.shields.io/npm/l/react-native-tourly)](./LICENSE)
+[![license](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 **react-native-tourly** is a lightweight, controlled guided-tour and onboarding library for React Native. Highlight real UI elements, explain features in context, and keep progress fully owned by your app.
 

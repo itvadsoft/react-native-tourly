@@ -1,6 +1,6 @@
 {
   "name": "react-native-tourly",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A controlled, target-based guided tour overlay for React Native.",
   "keywords": [
     "react-native",
